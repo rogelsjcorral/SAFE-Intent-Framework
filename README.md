@@ -7,9 +7,9 @@ script can “succeed” while doing the wrong thing.
 Request for Comments (RFC-style draft). Feedback welcome via Issues and
 Pull Requests.
 
-## Repository Contents
+## Repository Contents (WIP)
 - SAFE_RFC.tex  LaTeX source
-- SAFE_RFC.pdf  Compiled PDF (optional)
+- SAFE_RFC.pdf  Compiled PDF
 
 ## Build
 If you want to build the PDF locally:

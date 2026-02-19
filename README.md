@@ -8,8 +8,8 @@ Request for Comments (RFC-style draft). Feedback welcome via Issues and
 Pull Requests.
 
 ## Repository Contents (WIP)
-- SAFE_RFC.tex  LaTeX source
-- SAFE_RFC.pdf  Compiled PDF
+- SAFE_RFC.pdf  Compiled draft (recommended starting point)
+- SAFE_RFC.tex  LaTeX source (to be added once references are finalized)
 
 ## Build
 If you want to build the PDF locally:

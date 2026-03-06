@@ -1,0 +1,35 @@
+{
+  "mer_version": "0.6",
+  "safe_compliance_level": "L2",
+  "run_id": "6e2b8c84-2e51-4a19-aef4",
+  "timestamp_utc": "2026-02-25T18:21:00Z",
+  "environment": {
+    "name": "prod",
+    "change_class": "iam",
+    "risk_tier": "high"
+  },
+  "intent": {
+    "operator_intent_text": "Disable legacy authentication for tenants in OU=Sales",
+    "requested_action": "disable",
+    "approval_ticket_ref": "CHG-12345"
+  },
+  "phases": {
+    "enumeration": {
+      "target_count": 3,
+      "targets_digest": "f6e9a38c1cbb9a6e"
+    },
+    "snapshot": {
+      "snapshot_time": "2026-02-25T18:21:05Z"
+    },
+    "confirmation": {
+      "confirmed": true
+    },
+    "execution": {
+      "success_count": 3,
+      "failure_count": 0
+    },
+    "verification": {
+      "verified": true
+    }
+  }
+}

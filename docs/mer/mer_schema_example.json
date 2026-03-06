@@ -1,0 +1,26 @@
+{
+  "_license": "CC-BY-SA-4.0",
+  "_copyright": "Copyright 2026 Rogel S.J. Corral",
+  "_note": "Example schema for the Minimal Evidence Record (MER) concept described in the SAFE Intent Framework RFC.",
+
+  "run_id": "string",
+  "timestamp": "ISO-8601",
+  "environment": "string",
+  "risk_tier": "string",
+  "change_class": "string",
+
+  "intent": "string",
+  "ticket": "string",
+
+  "targets_hash": "sha256",
+  "enumeration_log": "path",
+
+  "snapshot_log": "path",
+  "execution_log": "path",
+  "verification_log": "path",
+
+  "secret_scan_result": "pass|fail",
+
+  "status": "success|failure",
+  "rollback_id": "string|null"
+}

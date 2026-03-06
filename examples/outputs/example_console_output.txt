@@ -1,0 +1,39 @@
+SAFE-L2 minimal wrapper starting...
+
+Phase 1: Enumeration
+Enumerated targets: 3
+
+Targets:
+user_1043
+user_1147
+user_1172
+
+Phase 2: Snapshot
+Snapshot captured for 3 targets.
+
+Phase 3: Confirmation
+Environment: prod
+Change class: iam
+Risk tier: high
+Intent: Disable legacy authentication for tenants in OU=Sales
+Target count: 3
+
+Type EXACTLY: I CONFIRM
+
+> I CONFIRM
+
+Confirmation accepted.
+
+Phase 4: Execution
+OK user_1043
+OK user_1147
+OK user_1172
+
+Execution completed.
+
+Phase 5: Verification
+Verification successful for 3 targets.
+
+SAFE-L2 run complete.
+MER written to:
+.safe_evidence/6e2b8c84-2e51-4a19-aef4/mer.json

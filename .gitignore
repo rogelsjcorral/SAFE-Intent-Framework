@@ -324,3 +324,40 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+# ------------------------------------------------------------------
+# SAFE Framework runtime artifacts
+# ------------------------------------------------------------------
+
+# Evidence bundles generated during SAFE runs
+.safe_evidence/
+
+# Example output artifacts
+examples/outputs/*.log
+examples/outputs/*.json
+
+# ------------------------------------------------------------------
+# Python
+# ------------------------------------------------------------------
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+
+# ------------------------------------------------------------------
+# Development tools
+# ------------------------------------------------------------------
+
+.pytest_cache/
+.mypy_cache/
+
+# macOS / Windows noise
+.DS_Store
+Thumbs.db

@@ -2,7 +2,16 @@ cff-version: 1.2.0
 title: "The S.A.F.E. Intent Framework"
 message: "If you use this work, please cite it."
 type: software
+
 authors:
   - family-names: "Corral"
     given-names: "Rogel S.J."
-license: "CC-BY-SA-4.0"
+
+repository-code: "https://github.com/rogelsjcorral/safe-intent-framework"
+
+abstract: >
+  SAFE (Structured Automation For Execution) is a control framework for
+  AI-assisted administrative automation. It defines enforceable execution
+  phases including enumeration, snapshot, confirmation, execution,
+  verification, and MER generation to improve traceability and operational
+  safety for privileged automation workflows.

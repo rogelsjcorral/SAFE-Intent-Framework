@@ -1,0 +1,9 @@
+This repository contains materials under multiple licenses.
+
+Directory-specific licensing:
+
+docs/                         -> CC BY-SA 4.0
+poc/safe-l2-wrapper/          -> Apache License 2.0
+poc/sample-scripts/           -> MIT License
+
+Full license texts are available in the LICENSES/ directory.

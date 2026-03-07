@@ -35,7 +35,7 @@ The SAFE model defines a minimal operational control sequence:
 
 Each phase produces artifacts that allow traceability and post-execution analysis.
 
-The resulting record is called a **MER (Machine Execution Record)**.
+The resulting record is called a **MER (Minimal Evidence Record)**.
 
 ---
 

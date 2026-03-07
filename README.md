@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1161262407.svg)](https://doi.org/10.5281/zenodo.18896883)]
+[![DOI](https://zenodo.org/badge/1161262407.svg)](https://doi.org/10.5281/zenodo.18896883)
 
 # SAFE Intent Framework
 

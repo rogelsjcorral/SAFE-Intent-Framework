@@ -63,6 +63,13 @@ tests/
 scripts/
   development utilities
 ```
+## Supporting Documentation
+
+Additional supporting documents are available under `docs/`.
+
+| Document | Description |
+|----------|-------------|
+| `nist-ai-rmf-crosswalk.md` | Draft alignment crosswalk mapping S.A.F.E. controls to selected NIST AI RMF 1.0 functions and subcategories. This document is an alignment note only and does not claim certification, formal compliance, or endorsement. |
 
 ## Reference Implementation
 

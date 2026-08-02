@@ -1,7 +1,9 @@
 # NIST AI RMF 1.0 Crosswalk: S.A.F.E. Intent Framework
 
 **SPDX-License-Identifier:** CC-BY-SA-4.0
+
 **Copyright 2026 Rogel S.J. Corral**
+
 **This document is licensed under the Creative Commons**
 **Attribution-ShareAlike 4.0 International License.**
 
